@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import locked from '../assets/locked.png';
 import user from '../assets/user.png';
-import logoBPS from '../assets/Galeri/logoBPS.png';
 import { useAuth } from '../hooks/useAuth';
 import { useNavigate } from 'react-router-dom';
 
